@@ -73,6 +73,8 @@ debug_toggle={
 
 [rendering]
 
+textures/vram_compression/import_s3tc_bptc=false
+
 renderer/rendering_method="mobile"
 textures/vram_compression/import_etc2_astc=true
 
